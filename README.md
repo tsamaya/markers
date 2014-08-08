@@ -3,6 +3,6 @@ markers
 
 markers for maps
 
-[Mountains Marker](./images/mountainsMarker.png)
+[Mountains Marker](https://raw.githubusercontent.com/tsamaya/generator-bootmap-ef/master/images/mountainsMarker.png)
 
-[Velov](./images/velov.gif)
+[Velov](https://raw.githubusercontent.com/tsamaya/generator-bootmap-ef/master/images/velov.gif)
